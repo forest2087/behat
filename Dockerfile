@@ -1,5 +1,4 @@
-ARG FROM
-FROM ${FROM}
+FROM alpine:edge
 
 MAINTAINER Leonid Makarov <leonid.makarov@ffwagency.com>
 
