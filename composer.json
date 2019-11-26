@@ -1,16 +1,4 @@
 {
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/IanStefanison/BehatFormatter.git"
-    }
-  ],
-  "config": {
-    "bin-dir": "bin/",
-    "github-oauth": {
-      "github.com": "a837fd24aa697eb77706c1189dce04be8d77d01f"
-    }
-  },
   "require": {
     "behat/behat": "~3.5.0",
     "behat/mink": "^1.7.0",
@@ -18,7 +6,7 @@
     "behat/mink-extension": "*",
     "behat/mink-selenium2-driver": "*",
     "dmore/chrome-mink-driver": "*",
-    "evidencepartners/behat-html-formatter": "dev-master",
+    "emuse/behat-html-formatter": "*",
     "bex/behat-screenshot": "^1.2"
   }
 }
