@@ -1,4 +1,10 @@
 {
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/IanStefanison/BehatFormatter.git"
+    }
+  ],
   "config": {
     "bin-dir": "bin/",
     "github-oauth": {
